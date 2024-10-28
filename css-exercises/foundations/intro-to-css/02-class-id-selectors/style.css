@@ -1,0 +1,30 @@
+.odd-num {
+    background-color: pink;
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+
+.adjust-font-size {
+    font-size: 24px;
+}
+/*
+    It could have been done with two class names as well for the 3rd element only.
+    Note that there is no whitespace between multiple class names here
+
+    .odd-num .middle-p {
+        font-size: 24px;
+    }
+*/
+
+#bluediv {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#greendiv {
+    background-color: rgba(127, 255, 212, 0.30);
+    font-weight: bold;
+}
+
+.smoky-font-color {
+    color: hsl(0, 0%, 46%)
+}
